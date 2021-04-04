@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.outliner{width: 800px;height: 1500px;margin: auto}
+.header{width: 720px;height: 570px;background-color:darkgrey;margin: auto;padding: 40px}
+.ma{width: 250px;height: 100px;float: left;margin-bottom: 80px}
+.header .work{width: 400px;height: 100px;text-align: right;float: right}
+.header .hello{width: 250px;height: 200px}
+.senior{width: 400px;height: 100px;float: right}
+.project-1{width: 250px;height: 300px;margin-top: 40px ;float: left}
+.pic{width: 400px;height: 210px;background-color:gray;float: right;margin-top: 30px}
+.main{width: 720px;height: 230px;background-color:darkgrey;margin: auto;padding: 40px;float: left}
+.project-2{width: 250px;height: 300px;float: left}
+.pic-2{width: 400px;height: 210px;background-color:gray;float: right;}
+.footer{width: 720px;height: 230px;background-color:darkgrey;margin: auto;padding: 40px;float: left}
+.end{width: 720px;height: 230px;background-color:darkgrey;margin: auto;padding: 40px;float: left}
+.name{width: 300px;height: 100px;margin-top: 210px;float: left}
+.name-2{width: 300px;height: 100px;margin-top: 210px;float: right;text-align: right}
+
